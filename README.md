@@ -1,7 +1,6 @@
 
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sarveshvaran-m-v-2252a2387/">
