@@ -6,14 +6,10 @@
 
 <pre>
 <a href="mailto:sarveshvaranmv0721@gmail.com">
-  <img src="./mail-img.png" width="45" height="45" alt="Email">
-</a>   <a href="https://www.linkedin.com/in/sarveshvaran-m-v-2252a2387/">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="45" height="45" alt="LinkedIn">
-</a>   <a href="https://leetcode.com/u/QSvfZ0uRWW/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode">
-</a>   <a href="https://www.hackerrank.com/profile/sarveshvaranmv01">
-  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45" height="45" alt="HackerRank">
-</a>
+  <img src="./mail-img.png" width="45" height="45" alt="Email"></a>   <a href="https://www.linkedin.com/in/sarveshvaran-m-v-2252a2387/">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="45" height="45" alt="LinkedIn"></a>   <a href="https://leetcode.com/u/QSvfZ0uRWW/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"></a>   <a href="https://www.hackerrank.com/profile/sarveshvaranmv01">
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45" height="45" alt="HackerRank"></a>
   
 </pre>
 
